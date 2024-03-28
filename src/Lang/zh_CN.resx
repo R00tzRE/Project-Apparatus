@@ -562,7 +562,7 @@
     <value>船上的战利品</value>
   </data>
   <data name="main" xml:space="preserve">
-    <value>主要的</value>
+    <value>主要选项</value>
   </data>
   <data name="medium_loot" xml:space="preserve">
     <value>中等战利品</value>
@@ -589,13 +589,13 @@
     <value>可以让你穿墙飞行。</value>
   </data>
   <data name="no_flash" xml:space="preserve">
-    <value>没有闪光</value>
+    <value>无视闪光弹影响</value>
   </data>
   <data name="no_flash_descr" xml:space="preserve">
     <value>当玩家投掷闪光时，你不会受到影响。</value>
   </data>
   <data name="no_held_object" xml:space="preserve">
-    <value>不持有Object</value>
+    <value>不持有物品</value>
   </data>
   <data name="no_more_credits" xml:space="preserve">
     <value>没有更多金钱</value>
@@ -610,25 +610,25 @@
     <value>不再在流沙或洪水中沉没！</value>
   </data>
   <data name="object" xml:space="preserve">
-    <value>Object</value>
+    <value>物品</value>
   </data>
   <data name="object_spam" xml:space="preserve">
-    <value>Object骚扰</value>
+    <value>物品生成</value>
   </data>
   <data name="object_spam_descr" xml:space="preserve">
-    <value>将Object放置在玩家身上，以激怒/引诱他进入陷阱。</value>
+    <value>将物品放置在玩家身上，以激怒/引诱他进入陷阱。</value>
   </data>
   <data name="object_spawner" xml:space="preserve">
-    <value>对象生成器</value>
+    <value>物品生成器</value>
   </data>
   <data name="obj_to_spawn" xml:space="preserve">
-    <value>生成Object</value>
+    <value>生成物品</value>
   </data>
   <data name="one_hand_all_objects" xml:space="preserve">
-    <value>单手手持所有Object</value>
+    <value>单手手持所有物品</value>
   </data>
   <data name="one_hand_all_objects_descr" xml:space="preserve">
-    <value>允许你单手持有任何双手持有的Object。</value>
+    <value>允许你单手持有任何双手持有的物品。</value>
   </data>
   <data name="open_all_mechanical_doors" xml:space="preserve">
     <value>打开所有机械门</value>
@@ -772,7 +772,7 @@
     <value>生成敌人开启</value>
   </data>
   <data name="spawn_object" xml:space="preserve">
-    <value>生成Object</value>
+    <value>生成物品</value>
   </data>
   <data name="spawn_object_desc" xml:space="preserve">
     <value>必须是房主才能使用。如果对象有多个单词，则使用空格，其他单词将小写。示例包括Apparatus, Key, Red soda等</value>
